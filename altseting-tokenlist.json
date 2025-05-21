@@ -1,6 +1,6 @@
 {
   "name": "ALTSETING Token List",
-  "logoURI": "https://altseting.com/logo512.png",
+  "logoURI": "logo.jpg",
   "tags": {
     "meme-token": {
       "name": "meme-token",
@@ -19,16 +19,16 @@
       "symbol": "ALTST",
       "name": "ALTSETING Token",
       "decimals": 9,
-      "logoURI": "https://altseting.com/logo512.png",
+      "logoURI": "logo.jpg",
       "tags": [
         "meme-token",
         "community-token"
       ],
       "extensions": {
-        "website": "https://altseting.com",
-        "twitter": "https://twitter.com/ALTSETING",
-        "telegram": "https://t.me/ALTSETING",
-        "discord": "https://discord.gg/altseting",
+        "website": "https://altseting-token.vercel.app/",
+        "twitter": "https://x.com/altsetingtoken?s=21",
+        "telegram": "https://t.me/ALTsetingtoken",
+        "discord": "https://discord.gg/Q7WDbfaj",
         "description": "ALTSETING Token ($ALTST) is the memecoin of the ALTseason. Built on Solana, powered by SETI, META and the community miner WebApp."
       }
     }
